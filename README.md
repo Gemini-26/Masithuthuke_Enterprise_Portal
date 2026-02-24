@@ -34,6 +34,16 @@ The platform was structured to support:
 -Expandability for AI-driven recommendation or predictive systems
 
 # Screenshots
+![Dashboard Overview](screenshots/01-dashboard-overview.png)
+![Document Manager Solution](screenshots/02-document-manager-solution.png)
+![Learner Management Solution](screenshots/03-Learner-management-solution.png)
+![Learner Portal & Course content](screenshots/04-Learner-portal+course-content.png)
+![Course content](screenshots/05-course-content.png)
+![Courses backend](screenshots/06-courses-backend.png)
+![Javascript learner live-search](screenshots/07-javascrit-live-learner-search.png)
+![Quizes](screenshots/08-quizes.png)
+![Users](screenshots/09-users.png)
+![Role-based access](screenshots/10-role-based-access.png)
 
 # Technologies Used
 -JavaScript (Dynamic UI Logic)
